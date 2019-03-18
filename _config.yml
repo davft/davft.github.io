@@ -27,13 +27,13 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # linkedin: your_username
+  linkedin: davidepascali
   # medium: @your_username
-  # stackoverflow: your_user_id
+  stackoverflow: 7757484
   # telegram: your_username
   # twitter: your_username
   # youtube: your_username
@@ -50,4 +50,4 @@ topics:
 
   - name: SQL
     web_url: https://github.com/topics/sql
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sql/sql.png
+    image_url: https://platform-user-uploads.s3.amazonaws.com/blog/category/logo/60/sql.png
